@@ -1,0 +1,2 @@
+# rcon
+remote console
